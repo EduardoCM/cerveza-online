@@ -19,12 +19,12 @@ public class CervezaCatalogoAPI {
 		corona.setNacionalidad("Mexicana");
 		
 		Cerveza corona2 = new Cerveza();
-		corona2.setNombre("Corona2");
-		corona2.setNacionalidad("Mexicana");
+		corona2.setNombre("Budweiser");
+		corona2.setNacionalidad("EUA");
 		
 		Cerveza corona3 = new Cerveza();
-		corona3.setNombre("Corona3");
-		corona3.setNacionalidad("Brazil");
+		corona3.setNombre("Skol");
+		corona3.setNacionalidad("Reino Unido");
 		
 		Cerveza corona4 = new Cerveza();
 		corona4.setNombre("Corona4");
